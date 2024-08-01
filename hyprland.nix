@@ -22,12 +22,16 @@ in
   environment.systemPackages = with pkgs; [
     unstable.waybar
     unstable.hyprland
+    wl-clipboard
     dunst
     libnotify
     swww
     kitty
     rofi-wayland
     networkmanagerapplet
+    grim
+    slurp
+    imv
   ];
 
   hardware = {
