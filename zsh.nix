@@ -22,5 +22,6 @@ in
     unstable.eza
     unstable.fd
     unstable.fzf
+    pfetch
   ];
 }

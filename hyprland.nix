@@ -26,6 +26,8 @@ in
     dunst
     libnotify
     swww
+    hyprpaper
+    unstable.hyprlock
     kitty
     rofi-wayland
     networkmanagerapplet
